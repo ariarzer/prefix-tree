@@ -8,7 +8,7 @@
   },
   "author": "Sofi Valitova",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^28.1.3"
   }
 }
